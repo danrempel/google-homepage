@@ -1,0 +1,20 @@
+body {
+
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: inline;
+}
+
+ul.top-nav {
+	float: right;
+}
+
+.active {
+    background-color: white;
+    color: black;
+}
